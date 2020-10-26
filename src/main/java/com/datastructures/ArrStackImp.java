@@ -103,6 +103,7 @@ public class ArrStackImp {
 		
 		System.out.println(stackim.isEmpty());
 		System.out.println(stackim.isFull());
+		System.out.println("******************** end of the statck implimentations");
 		
 		
 	}
